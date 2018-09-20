@@ -1,0 +1,30 @@
+body{
+    font-family: times;
+    font-size: 16px;
+    background-color: antiquewhite;
+    color: black;
+    border: 5px solid black;
+    
+}
+
+h1{
+   color: aqua; 
+    border : 1px solid blue;
+
+}
+p { 
+font-family: aria, sans-serif
+}
+p.atencao{
+    color:red;
+}
+.container{
+    border:5px solid green;
+    width: 80%
+    margin: 5px auto;
+}
+
+h2{
+    color: indianred;
+    
+}
